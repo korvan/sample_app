@@ -13,11 +13,13 @@ gem 'therubyracer'
 
 group :development do
   gem 'rspec-rails', '2.6.1'
+  gem 'redgreen'
 end
 
 group :test do
   gem 'rspec-rails', '2.6.1'
   gem 'webrat', '0.7.1'
+  gem 'redgreen'
 end
 
 group :assets do

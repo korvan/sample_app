@@ -82,6 +82,7 @@ GEM
     rake (10.0.3)
     rdoc (3.12.2)
       json (~> 1.4)
+    redgreen (1.2.2)
     ref (1.0.2)
     rspec (2.6.0)
       rspec-core (~> 2.6.0)
@@ -132,6 +133,7 @@ DEPENDENCIES
   execjs
   jquery-rails
   rails (= 3.2.12)
+  redgreen
   rspec-rails (= 2.6.1)
   sass-rails (~> 3.2.3)
   sqlite3
