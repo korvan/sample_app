@@ -82,6 +82,8 @@ footer {
   width: 710px;
   margin-left: auto;
   margin-right: auto;
+  position: absolute;
+  bottom:0;
 }
 
 footer nav {
